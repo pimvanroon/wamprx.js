@@ -10,7 +10,7 @@
   "keywords": [
     "WAMP"
   ],
-  "author": "Johan 't Hart",
+  "author": "Pim van Roon",
   "license": "ISC",
   "dependencies": {
     "rxjs": "^6.5.4",
